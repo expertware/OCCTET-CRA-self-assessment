@@ -1,6 +1,6 @@
 	# OCCTET-CRA-self-assessment
 
-OCCTET is a free, open-source self-assessment platform that helps organisations — especially SMEs — measure their preparedness against the EU Cyber Resilience Act (CRA). The project is part of the Open CyberSecurity Compliance Toolkit (OCCTET) and is funded by the EU Digital Europe Programme.
+OCCTET is a free, open-source self-assessment platform that helps organisations â€” especially SMEs â€” measure their preparedness against the EU Cyber Resilience Act (CRA). The project is part of the Open CyberSecurity Compliance Toolkit (OCCTET) and is funded by the EU Digital Europe Programme.
 
 
 ## What this repository contains
@@ -8,7 +8,7 @@ OCCTET is a free, open-source self-assessment platform that helps organisations 
 - UI components and static assets for the public-facing site and assessment flows
 
 
-## Quick start — run the frontend locally
+## Quick start â€” run the frontend locally
 
 Prerequisites
 - Node.js (recommended 16+)
@@ -40,14 +40,14 @@ If you plan larger feature work or architecture changes, open an issue first to 
 - Use the repository Issues for bug reports, feature requests, and questions.
 - For project-related inquiries, refer to the project website: https://occtet.eu
 
-# OCCTET — Backend (exp.Backend)
+# OCCTET â€” Backend (exp.Backend)
 
 This document describes the backend part of the repository, how it is configured and how to run it locally for development.
 
 ## Overview
 The backend is an ASP.NET Core 8 application that provides authentication, survey management, email delivery, and persistence to PostgreSQL. Key features:
 - ASP.NET Core 8 Web API with Identity (EF Core + PostgreSQL)
-- Azure Key Vault backed secrets (production)
+- Azure Key Vault backed secrets 
 - JWT authentication 
 - Services: email, surveys, organisations, reports, copilot agent, repositories, etc.
 - Email templating using files under `wwwroot/EmailTemplates`
