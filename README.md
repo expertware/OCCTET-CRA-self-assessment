@@ -2,11 +2,10 @@
 
 OCCTET is a free, open-source self-assessment platform that helps organisations — especially SMEs — measure their preparedness against the EU Cyber Resilience Act (CRA). The project is part of the Open CyberSecurity Compliance Toolkit (OCCTET) and is funded by the EU Digital Europe Programme.
 
-
 ## What this repository contains
 - Self-assessment web app (frontend) located at `exp.Frontend`
+- Backend API and services located at `exp.Backend`
 - UI components and static assets for the public-facing site and assessment flows
-
 
 ## Quick start — run the frontend locally
 
@@ -28,17 +27,6 @@ Build for production
   - `npm run build`
 - The production build output will be produced in the configured `dist` folder.
 
-## Contributing
-Contributions are welcome. To contribute:
-1. Fork the repository
-2. Implement your change on a topic branch
-3. Open a pull request with a clear description of the change and any manual testing steps
-
-If you plan larger feature work or architecture changes, open an issue first to discuss the approach.
-
-## Issues & support
-- Use the repository Issues for bug reports, feature requests, and questions.
-- For project-related inquiries, refer to the project website: https://occtet.eu
 
 # OCCTET — Backend (exp.Backend)
 
@@ -58,7 +46,7 @@ The backend is an ASP.NET Core 8 application that provides authentication, surve
 ## Prerequisites
 - .NET 8 SDK
 - PostgreSQL (for local DB runs or migrations)
-- Azure Key Vault (for production secrets) OR local secrets/environment variables for development
+- Azure Key Vault 
 - Visual Studio 2022 or VS Code (optional)
 - Node/NPM only required for frontend work
 
@@ -82,3 +70,14 @@ Locally you can provide the same values using:
 
 Example `appsettings.Development.json` (place in `exp.Backend`):
 
+## Contributing
+Contributions are welcome. To contribute:
+1. Fork the repository
+2. Implement your change on a topic branch
+3. Open a pull request with a clear description of the change and any manual testing steps
+
+If you plan larger feature work or architecture changes, open an issue first to discuss the approach.
+
+## Issues & support
+- Use the repository Issues for bug reports, feature requests, and questions.
+- For project-related inquiries, refer to the project website: https://occtet.eu
