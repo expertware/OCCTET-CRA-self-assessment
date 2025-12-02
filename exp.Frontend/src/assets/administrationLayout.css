@@ -1,0 +1,102 @@
+
+
+.btn.btn-outline-secondary {
+  min-height: 40px;
+  border-radius: 8px;
+  border: 1px solid var(--neutral-500);
+  color: var(--neutral-700);
+  font-size: 15px;
+}
+.btn.btn-outline-secondary:hover {
+  background-color: var(--neutral-50);
+}
+
+.admin-layout .input-group-text {
+  height: 40px;
+  padding: 10px 0px 10px 9px;
+  background-color: #ffffff;
+  border-right: none;
+}
+
+.admin-layout .form-control {
+  min-height: 40px!important;
+  height: 40px;
+}
+.admin-layout .custom-multiselect .multiselect__tags {
+  min-height: 40px;
+  padding-top: 11px;
+}
+
+.admin-layout .custom-multiselect .multiselect__select::before {
+  top: 9px;
+}
+
+.admin-layout .inactive-control {
+    min-height: 40px;
+}
+/* 
+.btn-light {
+  background-color: var(--primary-200);
+  color: var(--primary-600);
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 14px 24px;
+  height: 40px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  line-height: 110.00000000000001%;
+}
+.btn-light:hover {
+  background-color: var(--primary-300);
+  color: var(--primary-600);
+}
+
+.btn-light:active {
+  background-color: var(--primary-300) !important;
+  color: var(--primary-600) !important;
+}
+.btn-light:focus-visible {
+  background-color: var(--primary-300) !important;
+  color: var(--primary-600) !important;
+}
+.btn-light.small {
+  font-size: 15px;
+  padding: 6px 8px;
+  height: 30px;
+} */
+
+
+
+
+.table .btn-light {
+  height: 37px;
+  padding: 15px;
+  font-size: 15px;
+  line-height: 110.00000000000001%;
+}
+
+
+
+.label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px;
+    height: 37px;
+}
+.label.blue{
+    background-color: var(--primary-200);
+    color: var(--primary-500);
+}
+
+.label.red{
+    background-color: var(--danger-200);
+    color: var(--danger-500);
+}

@@ -1,0 +1,25 @@
+<svg width="828" height="614" viewBox="0 0 828 614" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1091_1020)">
+<mask id="path-1-inside-1_1091_1020" fill="white">
+<path d="M752 40C758.627 40 764 45.3726 764 52V514C764 520.627 758.627 526 752 526H76C69.3726 526 64 520.627 64 514V104C99.5646 104 128.458 75.4374 128.992 40H752Z"/>
+</mask>
+<path d="M752 40C758.627 40 764 45.3726 764 52V514C764 520.627 758.627 526 752 526H76C69.3726 526 64 520.627 64 514V104C99.5646 104 128.458 75.4374 128.992 40H752Z" fill="url(#paint0_linear_1091_1020)"/>
+<path d="M764 52L766 52L764 52ZM64 514L62 514L64 514ZM64 104V102H62V104H64ZM128.992 40V38H127.022L126.992 39.9698L128.992 40ZM752 40V42C757.523 42 762 46.4772 762 52L764 52L766 52C766 44.268 759.732 38 752 38V40ZM764 52H762V514H764H766V52H764ZM764 514H762C762 519.523 757.523 524 752 524V526V528C759.732 528 766 521.732 766 514H764ZM752 526V524H76V526V528H752V526ZM76 526V524C70.4772 524 66 519.523 66 514L64 514L62 514C62 521.732 68.268 528 76 528V526ZM64 514H66V104H64H62V514H64ZM64 104V106C100.659 106 130.441 76.5586 130.992 40.0302L128.992 40L126.992 39.9698C126.474 74.3162 98.4701 102 64 102V104ZM128.992 40V42H752V40V38H128.992V40Z" fill="white" mask="url(#path-1-inside-1_1091_1020)"/>
+</g>
+<defs>
+<filter id="filter0_d_1091_1020" x="0" y="0" width="828" height="614" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="24"/>
+<feGaussianBlur stdDeviation="32"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.240385 0 0 0 0 0.240385 0 0 0 0 0.240385 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1091_1020"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1091_1020" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1091_1020" x1="414" y1="40" x2="414" y2="526" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0F2FE"/>
+<stop offset="0.274038" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>

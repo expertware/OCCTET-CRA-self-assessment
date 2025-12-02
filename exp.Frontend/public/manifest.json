@@ -1,0 +1,36 @@
+{
+  "name": "Occtet",
+  "short_name": "Occtet",
+  "start_url": "",
+  "display": "standalone",
+  "description": "Evaluate your Business Cyber Resilience Readinees. Free, instant, and aligned with the EU Cyber Resilience Act.",
+  "background_color": "#f8f9fa",
+  "theme_color": "#2da017",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon-192x192.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-512x512.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "splash_pages": null,
+  "scope": "/",
+  "permissions": [],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "dir": "auto",
+  "lang": "ro-RO",
+  "useWebmanifestExtension": true,
+  "apple-mobile-web-app-capable": "no",
+  "apple-mobile-web-app-status-bar-style": "default",
+  "categories": [],
+  "iarc_rating_id": null
+}

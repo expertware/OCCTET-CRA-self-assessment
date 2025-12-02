@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "Requests",
+    "Icon": "admin-companies",
+    "Link": "requests",
+    "Active": ["requests"],
+    "Roles": ["Admin", "Request Approver"],
+    "PageRedirect": true
+  },
+  {
+    "Name": "Reports",
+    "Icon": "admin-reports",
+    "Link": "reports",
+    "Active": ["home"],
+    "Roles": ["Admin", "Reports Viewer"],
+    "PageRedirect": true
+  },
+  {
+    "Name": "Companies",
+    "Icon": "admin-companies",
+    "Link": "companies",
+    "Active": ["companies", "surveys-admin", "survey", "surveys-by-category"],
+    "Roles": ["Admin"],
+    "PageRedirect": true
+  },
+  {
+    "Name": "Users",
+    "Icon": "admin-users",
+    "Link": "users",
+    "Active": ["users"],
+    "Roles": ["Admin"]
+  }
+]

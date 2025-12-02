@@ -1,0 +1,9 @@
+﻿Scaffold-DbContext `
+  -Connection "Host=<ip_address>;Database=<db_name>;Username=<username>;Password=<password>;Include Error Detail=True" `
+  -Provider "Npgsql.EntityFrameworkCore.PostgreSQL" `
+  -OutputDir Entities `
+  -ContextDir Context `
+  -Context SurveyDbContext `
+  -Schemas org,auth,srv `
+  -NoOnConfiguring `
+  -Force

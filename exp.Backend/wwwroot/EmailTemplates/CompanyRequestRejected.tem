@@ -1,0 +1,318 @@
+﻿<html
+  lang="en"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <meta name="color-scheme" content="light" />
+    <meta name="supported-color-schemes" content="light" />
+    <title>Expertware</title>
+    <style data-font-primary="" type="text/css">
+      /*--- Load Fonts Google Fonts ---*/
+      @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+      @font-face {
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 100 900;
+        font-display: block;
+        src: url(https://fonts.gstatic.com/l/font?kit=QGYvz_MVcBeNP4N5tllJW7Ddrct81M7BE7jWU2Rk8fSJdECpJKU4Qzmvgj_sRqpHFkIexbI&skey=bafc0b239d492b2c&v=v11)
+          format("woff2");
+      }
+    </style>
+    <style data-font-secondary="" type="text/css">
+      /*--- Load Fonts Google Fonts ---*/
+      @font-face {
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 400;
+        mso-font-alt: Arial;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2)
+          format("woff2");
+      }
+      @font-face {
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 700;
+        mso-font-alt: Arial;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2)
+          format("woff2");
+      }
+    </style>
+    <style type="text/css">
+      .ReadMsgBody {
+        width: 100%;
+        background-color: #ffffff;
+      }
+      .ExternalClass {
+        width: 100%;
+        background-color: #ffffff;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+      html {
+        width: 100%;
+      }
+      body {
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: none;
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        border-spacing: 0;
+        table-layout: fixed;
+        margin: 0 auto;
+      }
+      img {
+        height: auto;
+        outline: none;
+        text-decoration: none;
+        -ms-interpolation-mode: bicubic;
+      }
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      u + #body a {
+        color: inherit;
+        font-family: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .appleLinks a {
+        color: #c2c2c2 !important;
+        text-decoration: none !important;
+      }
+      span.preheader {
+        display: none !important;
+      }
+    </style>
+    <style data-style-responsive="" type="text/css">
+      @media only screen and (max-width: 699px) {
+        table.hideMobile,
+        tr.hideMobile,
+        td.hideMobile,
+        br.hideMobile {
+          display: none !important;
+        }
+        table.row,
+        div.row {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+        table.centerFloat,
+        td.centerFloat,
+        img.centerFloat {
+          float: none !important;
+          margin: 0 auto !important;
+        }
+        table.halfRow,
+        div.halfRow {
+          width: 50% !important;
+          max-width: 50% !important;
+        }
+        td.imgResponsive img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin: auto;
+        }
+        td.menuLink a {
+          display: block;
+          border-top: 1px solid;
+          padding-top: 20px;
+        }
+        td.centerText {
+          text-align: center !important;
+        }
+        td.containerPadding {
+          width: 100% !important;
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+        td.mo-h-0 {
+          height: 0 !important;
+          font-size: 0px !important;
+          line-height: 0px !important;
+        }
+        td.spaceControl {
+          height: 15px !important;
+          font-size: 15px !important;
+          line-height: 15px !important;
+        }
+      }
+    </style>
+  </head>
+  <body style="font-family: 'Roboto', sans-serif">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center" style="padding: 20px">
+          <table
+            class="content"
+            width="100%"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="
+              background-color: #f6f7f9;
+              background-position: center top;
+              background-size: cover;
+              background-repeat: no-repeat;
+              border-collapse: collapse;
+              max-width: 600px;
+            "
+          >
+            <!-- Header -->
+            <tr>
+              <td
+                width="100%"
+                style="
+                  background-color: transparent;
+                  padding: 40px;
+                  padding-top: 0px;
+                "
+              >
+                <table width="100%">
+                  <tr>
+                    <td height="30px"></td>
+                  </tr>
+                  <tr>
+                    <td
+                      width="100%"
+                      class="header"
+                      style="text-align: center; color: white; font-size: 24px"
+                    >
+                      <img src="cid:TopImage" alt="" height="300px" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">
+                      <span
+                        style="
+                          color: #1f82be !important;
+                          mso-style-textfill-type: solid;
+                          mso-style-textfill-fill-color: #1f82be;
+                          font-size: 24px;
+                          font-weight: 600;
+                        "
+                        >Company request rejected</span
+                      >
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  
+                  <tr>
+                    <td style="text-align: center">
+                      <span
+                        style="
+                          color: #adbad3 !important;
+                          mso-style-textfill-type: solid;
+                          mso-style-textfill-fill-color: #adbad3;
+                          font-size: 18px;
+                          font-weight: 600;
+                          line-height: 110.00000000000001%;
+                        "
+                        >Company name: [companyName]</span
+                      >
+                    </td>
+                  </tr>
+                   <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">
+                      <span
+                        style="
+                          color: #adbad3 !important;
+                          mso-style-textfill-type: solid;
+                          mso-style-textfill-fill-color: #adbad3;
+                          font-size: 18px;
+                          font-weight: 600;
+                          line-height: 110.00000000000001%;
+                        "
+                        >Company VAT: [vat]</span
+                      >
+                    </td>
+                  </tr>
+                   <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">
+                      <span
+                        style="
+                          color: #adbad3 !important;
+                          mso-style-textfill-type: solid;
+                          mso-style-textfill-fill-color: #adbad3;
+                          font-size: 18px;
+                          font-weight: 600;
+                          line-height: 110.00000000000001%;
+                        "
+                        >We’ve reviewed your request, but unfortunately, your company request has been declined.</span
+                      >
+                    </td>
+                  </tr>
+                  
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+
+                  <tr>
+                    <td height="60"></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div
+                        style="
+                          height: 1px;
+                          background-color: #dce0e5;
+                          margin-bottom: 45px;
+                        "
+                      ></div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center">
+                      <a
+                        href="[BaseLink]"
+                        target="_blank"
+                        style="text-align: center"
+                        ><img src="cid:Logo" width="180px" alt="logo" />
+                      </a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="30px"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
