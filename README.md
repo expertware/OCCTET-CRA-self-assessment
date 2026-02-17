@@ -86,3 +86,7 @@ EU Funding Acknowledgement
 The OCCTET project (Grant Agreement No. 101190474) is funded by the European Union under the Digital Europe Programme.
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Cybersecurity Industrial, Technology and Research Competence Centre. Neither the European Union nor the granting authority can be held responsible for them.
 
+<p align="center">
+  <img src="docs/ecc.png" width="300" style="vertical-align: top; margin-right: 200px;">
+  <img src="docs/eufounded.png" width="300" style="vertical-align: top;">
+</p>
