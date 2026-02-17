@@ -81,3 +81,8 @@ If you plan larger feature work or architecture changes, open an issue first to 
 ## Issues & support
 - Use the repository Issues for bug reports, feature requests, and questions.
 - For project-related inquiries, refer to the project website: https://occtet.eu
+
+EU Funding Acknowledgement
+The OCCTET project (Grant Agreement No. 101190474) is funded by the European Union under the Digital Europe Programme.
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Cybersecurity Industrial, Technology and Research Competence Centre. Neither the European Union nor the granting authority can be held responsible for them.
+
